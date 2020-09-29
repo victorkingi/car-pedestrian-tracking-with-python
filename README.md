@@ -11,3 +11,6 @@ A pedestrian and car tracker using opencv-python.
 with the the respective image and video files you wish to use for tracking.
 NB:- Make sure you get the video location correctly, I recommend just having the video and image file
 in the same directory as the `.py` file.
+
+The output will be something like this depending on the photo you've chosen:
+![trained](readmePic.png)
